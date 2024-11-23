@@ -1,6 +1,6 @@
 > # app-dev
 > ### My favorite series/movies
-> **Series**
+>> **Series**
 > 1. The Walking Dead
 > 2. One Piece
 > 3. Every Harry Potter movie
